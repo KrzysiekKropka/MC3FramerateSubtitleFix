@@ -16,7 +16,7 @@
 
 4.  Decode ASSETS.DAT if you're running the script for the first time. If you already decoded it before and ran the script, it will tell you that "The timecodes are already fixed.". You can choose to restore the timecode values to default.
 
-5.  Encode ASSETS.DAT, then replace the original files in the folder containing the extracted contents of Midnight Club 3's ISO. 
+5.  Encode ASSETS.DAT, then replace the original file in the folder containing the extracted contents of Midnight Club 3's ISO. 
     Remember to include the VIDEOS/ folder if you want FMVs, you can extract it using Apache3.
     Burn the folder contents into an ISO (you can use ImgBurn for this)
 
