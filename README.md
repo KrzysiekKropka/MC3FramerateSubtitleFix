@@ -23,5 +23,5 @@
 
 # Fuck off
 
-Created by ChatGPT data centers powered by that satanic black magic, sick shit!
+Created by ChatGPT data centers powered by satanic black magic, sick shit!
 If you run into any problems or want to buy some heroin, message me on Discord at @tdfpl
